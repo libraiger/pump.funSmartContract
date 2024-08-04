@@ -8,6 +8,6 @@ You can check the tx to Remove vitual LP and Create Raydium Pool in this smart c
 https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
 
 ### This is not the whole code, I put some bugs here. :-) Someone who is interested in forking this repo, Contact me in Telegram, Twitter or Gmail.
-telegram: https://t.me/lovely_libra777
-twitter: https://x.com/libraiger
-discord: libra_tigar
+### telegram: https://t.me/lovely_libra777<br/>
+### twitter: https://x.com/libraiger<br/>
+### discord: libra_tigar
