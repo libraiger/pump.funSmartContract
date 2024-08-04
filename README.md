@@ -10,3 +10,4 @@ https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28Tx
 ### This is not the whole code, I put some bugs here. :-) Someone who is interested in forking this repo, Contact me in Telegram, Twitter or Gmail.
 telegram: https://t.me/lovely_libra777
 twitter: https://x.com/libraiger
+discord: libra_tigar
